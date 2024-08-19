@@ -82,4 +82,8 @@ public class project1 {
         }
         return true;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ba0ce29a3b9b6b8a9d21c1e76236ce6b56370a8b
